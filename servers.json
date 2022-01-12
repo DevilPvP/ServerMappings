@@ -1338,5 +1338,12 @@
         "addresses": [
             "tearfulmc.com"
         ]
+    },
+    {
+        "id": "devilpvp",
+        "name": "DevilPvP",
+        "addresses": [
+            "mc.devilpvph.cf"
+        ]
     }
 ]
